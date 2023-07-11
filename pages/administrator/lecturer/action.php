@@ -42,7 +42,7 @@ $lecturer_nidn			=htmlspecialchars(@$_POST['lecturer_nidn']);
 $lecturer_nup			=htmlspecialchars(@$_POST['lecturer_nup']);
 $lecturer_education		=htmlspecialchars(@$_POST['lecturer_education']);
 $lecturer_position		=htmlspecialchars(@$_POST['lecturer_position']);
-$lecturer_specialist	=htmlspecialchars(@$_POST['lecturer_specialist']);\
+$lecturer_specialist	=htmlspecialchars(@$_POST['lecturer_specialist']);
 
 
 
